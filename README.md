@@ -5,7 +5,7 @@
 <div align="center">
 
 ### **__Languages I've Tried__** ###
-<hr width="600">
+<hr width="80%">
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -18,7 +18,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### **IDE** ###
-<hr width="450">
+<hr width="55%">
 
 ![Vue](https://img.shields.io/badge/Vue.js-000?logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite.js-000?logo=vite)
@@ -27,13 +27,13 @@
 ![VSCode](https://img.shields.io/badge/VSCode-000?logo=visualstudiocode)
 
 ### **Databases** ###
-<hr width="200">
+<hr width="24%">
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### **Technologues** ###
-<hr width="300">
+<hr width="38%">
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![HTML5](https://img.shields.io/badge/HTML-000?logo=html5)
@@ -41,7 +41,7 @@
 ![Sass](https://img.shields.io/badge/Sass-000?logo=sass)
 
 ### **Nüffe?** ###
-<hr width="400">
+<hr width="50%">
 
 ![nüffe?](assets/nuffe.gif)
 
