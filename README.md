@@ -37,15 +37,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-### **Technologues** ###
-<hr width="63%" height="2px">
+### **Technologies** ###
+<hr width="60%" height="2px">
 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![HTML5](https://img.shields.io/badge/HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css3)
+
 ![Sass](https://img.shields.io/badge/Sass-000?logo=sass)
 ![jQuery](https://img.shields.io/badge/jQuery-000?logo=jquery)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=TypeScript)
 
 
 ### **Nüffe?** ###
