@@ -51,6 +51,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=TypeScript)
 
+![etc](https://img.shields.io/badge/etc...-000)
+
 
 ### **Nüffe?** ###
 <hr width="50%" height="2px">
