@@ -1,4 +1,4 @@
-## **_Shalom!_** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></a>
+## **_Shalom!_** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="maHand" width="24px !important" height="auto">
 
 > I am Esko Zloi and I am very **zloi**
 
